@@ -2,6 +2,8 @@
 
 Save a script containing the query you used to answer each question.
 
+name, gender, num_registered, year
+
 1. How many rows are in the names table?
 
 2. How many total registered people appear in the dataset?
